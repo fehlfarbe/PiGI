@@ -1,7 +1,3 @@
-//
-// Created by kolbe on 15.03.17.
-//
-
 #ifndef PIGI_PIGI_H
 #define PIGI_PIGI_H
 
